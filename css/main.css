@@ -2781,7 +2781,7 @@ html.no-csstransitions .home-content__main {
   overflow: hidden;
   height: 62.4rem;
   margin-top: calc((62.4rem/2) * -1);
-  background-image: url(../images/video-bg-2400.jpg);
+  background-image: url(../images/video-bg-2400.webp);
   background-repeat: no-repeat;
   background-position: center top;
   background-size: cover;
@@ -3635,11 +3635,11 @@ html.no-csstransitions .home-content__main {
 }
 
 .s-download .download-badges li a.badge-appstore {
-  background-image: url("../images/appstore.png");
+  background-image: url("../images/appstore.webp");
 }
 
 .s-download .download-badges li a.badge-googleplay {
-  background-image: url("../images/google-play.png");
+  background-image: url("../images/google-play.webp");
 }
 
 .s-download .download-bottom-image {
